@@ -1,0 +1,20 @@
+{
+  "name": "AngularTypescriptTutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc LibraryValidation/ValidationCommon.ts -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/datntlocalhost/AngularTypescriptTutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datntlocalhost/AngularTypescriptTutorial/issues"
+  },
+  "homepage": "https://github.com/datntlocalhost/AngularTypescriptTutorial#readme"
+}
